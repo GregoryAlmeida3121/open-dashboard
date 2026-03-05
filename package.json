@@ -1,6 +1,6 @@
 {
   "name": "open-dashboard",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "A skill catalogue of 36 copy-ready admin UI shapes an AI agent installs and composes into a real back-office. Built on TanStack Start, Drizzle + better-auth, shadcn + Tailwind v4.",
   "main": "src/index.ts",
   "scripts": {
